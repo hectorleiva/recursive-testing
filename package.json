@@ -1,0 +1,14 @@
+{
+  "name": "recursive-testing",
+  "version": "1.0.0",
+  "description": "Testing recursive calls with promises and tail call optimization",
+  "dependencies": {
+    "bluebird": "^3.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hector Leiva <hector@hectorleiva.com>",
+  "license": "ISC"
+}
